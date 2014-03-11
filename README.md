@@ -1,4 +1,4 @@
-Bolg
+Blog
 ====
 
-Just for personal using
+To be continued
